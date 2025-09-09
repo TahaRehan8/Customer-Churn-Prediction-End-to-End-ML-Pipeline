@@ -50,8 +50,8 @@ import joblib
 model = joblib.load("churn_pipeline.pkl")
 
 # Example prediction
-sample = [[...]]  # Replace with actual feature values
-print(model.predict(sample))
+<img width="775" height="205" alt="image" src="https://github.com/user-attachments/assets/7b63b908-45e4-4f04-b7a0-cdfaff2d0a96" />
+
 ```
 
 ## 📊 Models Used
