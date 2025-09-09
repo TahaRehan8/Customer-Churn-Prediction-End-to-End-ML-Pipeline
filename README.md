@@ -23,7 +23,7 @@ This repository contains an **End-to-End Machine Learning Pipeline** for predict
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/<your-username>/<repo-name>.git](https://github.com/TahaRehan8/Customer-Churn-Prediction-End-to-End-ML-Pipeline.git
 cd <repo-name>
 ```
 
@@ -48,11 +48,9 @@ import joblib
 
 # Load trained pipeline
 model = joblib.load("churn_pipeline.pkl")
-
+```
 # Example prediction
 <img width="775" height="205" alt="image" src="https://github.com/user-attachments/assets/7b63b908-45e4-4f04-b7a0-cdfaff2d0a96" />
-
-```
 
 ## 📊 Models Used
 
